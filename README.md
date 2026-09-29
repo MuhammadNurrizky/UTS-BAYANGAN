@@ -23,3 +23,13 @@ Memudahkan proses pengecekan fungsi program.
 
 ### 5. Where (Di Mana)  
 * Digunakan pada bagian backend (sisi server).
+
+## 🚀 Langkah-Langkah Menjalankan Aplikasi
+
+1. Buka Folder `src`.
+2. Buka folder `main/java/com/uts/spring_uts`.
+3. Terdapat 4 file: `AppController`, `JohnTravoltaService`, `QuadraticService`, dan `SpringUtsApplication`.
+4. `JohnTravoltaService` dan `QuadraticService` merupakan logic john travolta dan persamaan kuadrat.
+5. `AppController` untuk pengatur url dan request pada aplikasi.
+6. Buka file `SpringUtsApplication` yang merupakan file utama untuk menjalankan seluruh aplikasi, klik run atau tombol (hijau) untuk menjalankannya.
+7. Lalu untuk menjalankan gunakan [http://localhost:8080/john](http://localhost:8080/john) untuk menjalankan john travolta dan gunakan [http://localhost:8080/kuadrat](http://localhost:8080/kuadrat) untuk persamaan kuadrat.
