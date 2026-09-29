@@ -33,3 +33,12 @@ Memudahkan proses pengecekan fungsi program.
 5. `AppController` untuk pengatur url dan request pada aplikasi.
 6. Buka file `SpringUtsApplication` yang merupakan file utama untuk menjalankan seluruh aplikasi, klik run atau tombol (hijau) untuk menjalankannya.
 7. Lalu untuk menjalankan gunakan [http://localhost:8080/john](http://localhost:8080/john) untuk menjalankan john travolta dan gunakan [http://localhost:8080/kuadrat](http://localhost:8080/kuadrat) untuk persamaan kuadrat.
+
+# Tampilan Untuk John Travolta
+<img width="812" height="602" alt="image" src="https://github.com/user-attachments/assets/bc83d8ef-37c6-4d7d-83c8-1bf7c2f5d9cb" />
+
+# Tampilan Untuk Persamaan Kuadrat
+<img width="722" height="632" alt="image" src="https://github.com/user-attachments/assets/06f24270-6f1b-4529-b54f-84c8c7ff8a8c" />
+
+
+
